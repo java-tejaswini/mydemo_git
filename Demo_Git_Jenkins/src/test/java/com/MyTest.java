@@ -20,6 +20,7 @@ public void myTest1()
 {
 	String name="hello";
 	assertNotEquals(4, name.length());
+	System.out.println("data");;
 	
 }
 
