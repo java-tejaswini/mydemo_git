@@ -11,6 +11,7 @@ public void myTest()
 {
 	String name="hello";
 	assertEquals(5, name.length());
+	assertEquals('h', name.charAt(0));
 	
 }
 
