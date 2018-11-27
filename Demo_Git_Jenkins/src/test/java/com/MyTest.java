@@ -22,13 +22,7 @@ public void myTest1()
 	assertNotEquals(4, name.length());
 	
 }
-@Test
-public void myTest2()
-{
-	String name="hello";
-	assertEquals('h', name.charAt(0));
-	
-}
+
 
 
 }
