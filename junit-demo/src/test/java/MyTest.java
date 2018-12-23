@@ -10,6 +10,7 @@ public void myTest()
 {
 	String name="hello";
 	assertEquals(5, name.length());
+	System.out.println("hello");
 	
 }
 
